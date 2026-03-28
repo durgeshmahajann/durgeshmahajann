@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:3d1278,50:6a0dad,75:9b30ff,100:c77dff&height=200&section=header&text=Durgesh%20Mahajan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16&descColor=e8ccff" />
-
-### BTech IT &nbsp;📍 Pune, Maharashtra, India
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:3d1278,50:6a0dad,75:9b30ff,100:c77dff&height=220&section=header&text=Durgesh%20Mahajan&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%0ABTech%20IT%20%F0%9F%93%8D%20Pune%2C%20Maharashtra%2C%20India&descAlignY=55&descSize=15&descColor=e8ccff" />
 
 </div>
 
@@ -50,6 +48,73 @@ class DurgeshMahajan:
 <br />
 <img src="https://img.shields.io/badge/Vector_Databases-1a1a2e?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=1a1a2e" height="65" />
 &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AI_Workflow_Design-1a1a2e?style=for-the-badge&logo=apacheairflow&logoColor=017CEE&labelColor=1a1a2e" height="65" />
+
+### ⚙️ Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=fastapi,postman&theme=dark" height="65" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-1a1a2e?style=for-the-badge&logo=streamlit&logoColor=FF4B4B&labelColor=1a1a2e" height="65" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1a1a2e?style=for-the-badge&logo=chainlink&logoColor=375BD2&labelColor=1a1a2e" height="65" />
+<br />
+<img src="https://img.shields.io/badge/Groq_API-1a1a2e?style=for-the-badge&logo=groq&logoColor=white&labelColor=1a1a2e" height="65" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ScaleDown_API-1a1a2e?style=for-the-badge&logo=scaleway&logoColor=white&labelColor=1a1a2e" height="65" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshmahajann&theme=github_dark" width="60%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshmahajann&theme=github_dark" width="28%" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshmahajann&theme=github_dark" width="28%" />
+
+<img src="https://streak-stats.demolab.com?user=durgeshmahajann&theme=github-dark-blue&border=2c5364&stroke=2c5364&ring=a0c4d8&fire=a0c4d8&currStreakLabel=a0c4d8&sideLabels=a0c4d8&dates=ffffff" width="60%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/durgesh-mahajan-854aa3319">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="70" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:mahajandurgesh196@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="70" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/durgeshmahajann">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="70" />
+</a>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔧 Backend API Design
+- 🤖 LLM Integration
+- 🏗️ Real-World Architecture
+- ⚡ Performance at Scale
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c77dff,25:9b30ff,50:6a0dad,75:3d1278,100:1a0533&height=100&section=footer" />
+
+</div>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AI_Workflow_Design-1a1a2e?style=for-the-badge&logo=apacheairflow&logoColor=017CEE&labelColor=1a1a2e" height="65" />
 
 ### ⚙️ Frameworks & Tools
