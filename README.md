@@ -83,15 +83,23 @@ class DurgeshMahajan:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=durgeshmahajann&show_icons=true&hide_border=false&count_private=true&bg_color=0f2027&title_color=a0c4d8&icon_color=a0c4d8&text_color=ffffff&border_color=2c5364&rank_icon=github" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshmahajann&layout=compact&hide_border=false&bg_color=0f2027&title_color=a0c4d8&text_color=ffffff&border_color=2c5364&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshmahajann&theme=github_dark" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=durgeshmahajann&theme=dark&background=0f2027&ring=a0c4d8&fire=a0c4d8&currStreakLabel=a0c4d8&sideLabels=a0c4d8&border=2c5364&stroke=2c5364" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshmahajann&theme=github_dark" width="32%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshmahajann&theme=github_dark" width="32%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshmahajann&theme=github_dark" width="32%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=durgeshmahajann&theme=github-dark-blue&border=2c5364&stroke=2c5364&ring=a0c4d8&fire=a0c4d8&currStreakLabel=a0c4d8&sideLabels=a0c4d8&dates=ffffff" />
 
 </div>
 
