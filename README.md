@@ -8,7 +8,9 @@
 
 ## About Me
 
-Backend, AI & ML developer focused on scalable systems and deep learning solutions.
+I am a dedicated and goal-oriented developer with a strong focus on **Backend Development**, **Artificial Intelligence**, and **Machine Learning**. My aim is to design and build scalable, efficient systems while deepening my expertise in deep learning and intelligent technologies.
+
+I am committed to integrating advanced AI/ML models with robust backend architectures to develop innovative solutions for real-world challenges.
 
 ```python
 class DurgeshMahajan:
@@ -94,16 +96,6 @@ class DurgeshMahajan:
 <a href="https://github.com/durgeshmahajann">
   <img src="https://skillicons.dev/icons?i=github&theme=dark" height="70" />
 </a>
-
-<br />
-
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [durgesh-mahajan-854aa3319](https://linkedin.com/in/durgesh-mahajan-854aa3319) |
-| 📧 Email | [mahajandurgesh196@gmail.com](mailto:mahajandurgesh196@gmail.com) |
-| 🐙 GitHub | [durgeshmahajann](https://github.com/durgeshmahajann) |
-
-> 💬 *I'm always open to discussing AI/ML research, backend architecture, or exciting collaboration opportunities!*
 
 </div>
 
