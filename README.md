@@ -27,6 +27,26 @@ class DurgeshMahajan:
 
 ---
 
+## 🎯 Current Focus
+
+> *What I'm actively working on and thinking about right now.*
+
+```text
+🔧 Backend API Design      →  Building scalable, production-grade REST & async APIs
+🤖 LLM Integration         →  Connecting large language models into real-world applications
+🏗️ Real-World Architecture  →  Solving complex system design & architectural challenges
+⚡ Performance at Scale    →  Optimizing backends for speed, reliability, and growth
+```
+
+| Area | What I'm Exploring |
+|---|---|
+| 🔗 **Backend APIs** | FastAPI, async patterns, API design best practices |
+| 🧠 **LLMs** | LangChain, RAG pipelines, agent workflows, prompt engineering |
+| 🏛️ **Architecture** | Microservices, event-driven systems, distributed design patterns |
+| 🚀 **Production AI** | Deploying and scaling intelligent systems in real environments |
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
