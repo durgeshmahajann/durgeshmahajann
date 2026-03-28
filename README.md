@@ -69,13 +69,13 @@ class DurgeshMahajan:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshmahajann&theme=github_dark" width="75%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshmahajann&theme=github_dark" width="60%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshmahajann&theme=github_dark" width="36%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshmahajann&theme=github_dark" width="28%" />
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshmahajann&theme=github_dark" width="36%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshmahajann&theme=github_dark" width="28%" />
 
-<img src="https://streak-stats.demolab.com?user=durgeshmahajann&theme=github-dark-blue&border=2c5364&stroke=2c5364&ring=a0c4d8&fire=a0c4d8&currStreakLabel=a0c4d8&sideLabels=a0c4d8&dates=ffffff" width="75%" />
+<img src="https://streak-stats.demolab.com?user=durgeshmahajann&theme=github-dark-blue&border=2c5364&stroke=2c5364&ring=a0c4d8&fire=a0c4d8&currStreakLabel=a0c4d8&sideLabels=a0c4d8&dates=ffffff" width="60%" />
 
 </div>
 
