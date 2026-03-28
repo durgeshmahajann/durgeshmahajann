@@ -29,28 +29,61 @@ class DurgeshMahajan:
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0f2027?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0f2027?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0f2027?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![H2O.ai](https://img.shields.io/badge/H2O.ai-0f2027?style=for-the-badge&logo=h2o&logoColor=yellow)
+<img src="https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=3776AB" height="55" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C++-0f2027?style=for-the-badge&logo=cplusplus&logoColor=00599C" height="55" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="55" />
 
-![LLMs](https://img.shields.io/badge/LLMs-0f2027?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_&_GraphRAG-0f2027?style=for-the-badge&logo=semanticweb&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0f2027?style=for-the-badge&logo=probot&logoColor=white)
-![Vector Databases](https://img.shields.io/badge/Vector_Databases-0f2027?style=for-the-badge&logo=pinecone&logoColor=white)
-![AI Workflow](https://img.shields.io/badge/AI_Workflow_Design-0f2027?style=for-the-badge&logo=apacheairflow&logoColor=white)
+<br /><br />
+
+### 🤖 AI / ML — Frameworks
+
+<img src="https://img.shields.io/badge/TensorFlow-0f2027?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" height="55" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-0f2027?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" height="55" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/H2O.ai-0f2027?style=for-the-badge&logo=h2o&logoColor=FFD700" height="55" />
+
+<br /><br />
+
+### 🧠 AI / ML — Concepts & Techniques
+
+<img src="https://img.shields.io/badge/LLMs-0f2027?style=for-the-badge&logo=openai&logoColor=white" height="55" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/RAG_%26_GraphRAG-0f2027?style=for-the-badge&logo=semanticweb&logoColor=white" height="55" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Prompt_Engineering-0f2027?style=for-the-badge&logo=probot&logoColor=white" height="55" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Vector_Databases-0f2027?style=for-the-badge&logo=pinecone&logoColor=white" height="55" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AI_Workflow_Design-0f2027?style=for-the-badge&logo=apacheairflow&logoColor=white" height="55" />
+
+<br /><br />
 
 ### ⚙️ Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-0f2027?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Streamlit](https://img.shields.io/badge/Streamlit-0f2027?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-![LangChain](https://img.shields.io/badge/LangChain-0f2027?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0f2027?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Groq API](https://img.shields.io/badge/Groq_API-0f2027?style=for-the-badge&logo=groq&logoColor=white)
+
+<img src="https://img.shields.io/badge/FastAPI-0f2027?style=for-the-badge&logo=fastapi&logoColor=009688" height="55" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-0f2027?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="55" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LangChain-0f2027?style=for-the-badge&logo=chainlink&logoColor=375BD2" height="55" />
+
+<br />
+
+<img src="https://img.shields.io/badge/REST_APIs-0f2027?style=for-the-badge&logo=postman&logoColor=FF6C37" height="55" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Groq_API-0f2027?style=for-the-badge&logo=groq&logoColor=white" height="55" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ScaleDown_API-0f2027?style=for-the-badge&logo=scaleway&logoColor=white" height="55" />
+
+</div>
 
 ---
 
@@ -75,9 +108,29 @@ class DurgeshMahajan:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Durgesh_Mahajan-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/durgesh-mahajan-854aa3319)
-[![Email](https://img.shields.io/badge/Email-mahajandurgesh196@gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mahajandurgesh196@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-durgeshmahajann-0f2027?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durgeshmahajann)
+<br />
+
+<a href="https://linkedin.com/in/durgesh-mahajan-854aa3319">
+  <img src="https://img.shields.io/badge/LinkedIn-Durgesh%20Mahajan-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="58" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:mahajandurgesh196@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-mahajandurgesh196@gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=EA4335" height="58" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/durgeshmahajann">
+  <img src="https://img.shields.io/badge/GitHub-durgeshmahajann-0f2027?style=for-the-badge&logo=github&logoColor=white" height="58" />
+</a>
+
+<br /><br />
+
+> 💬 *I'm always open to discussing AI/ML research, backend architecture, or exciting collaboration opportunities!*
+
+<br />
 
 </div>
 
