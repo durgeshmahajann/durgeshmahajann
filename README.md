@@ -8,9 +8,8 @@
 
 ## About Me
 
-I am a dedicated and goal-oriented developer with a strong focus on **Backend Development**, **Artificial Intelligence**, and **Machine Learning**. My aim is to design and build scalable, efficient systems while deepening my expertise in deep learning and intelligent technologies.
+Backend, AI & ML developer focused on scalable systems and deep learning solutions.
 
-I am committed to integrating advanced AI/ML models with robust backend architectures to develop innovative solutions for real-world challenges.
 
 ```python
 class DurgeshMahajan:
