@@ -29,35 +29,80 @@ class DurgeshMahajan:
 
 <div align="center">
 
+<!-- ─────────────────────────────────────────── -->
 ### 💻 Languages
+<!-- ─────────────────────────────────────────── -->
+
 <img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" height="65" />
 
+<br/><br/>
+
+<!-- ─────────────────────────────────────────── -->
 ### 🤖 AI / ML — Frameworks
+<!-- ─────────────────────────────────────────── -->
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" height="65" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/H2O.ai-1a1a2e?style=for-the-badge&logo=h2o&logoColor=FFD700&labelColor=1a1a2e" height="65" />
 
-### 🧠 AI / ML — Concepts & Techniques
-<img src="https://img.shields.io/badge/LLMs-1a1a2e?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" height="65" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/RAG_%26_GraphRAG-1a1a2e?style=for-the-badge&logo=databricks&logoColor=FF3621&labelColor=1a1a2e" height="65" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Prompt_Engineering-1a1a2e?style=for-the-badge&logo=openai&logoColor=74aa9c&labelColor=1a1a2e" height="65" />
-<br />
-<img src="https://img.shields.io/badge/Vector_Databases-1a1a2e?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=1a1a2e" height="65" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AI_Workflow_Design-1a1a2e?style=for-the-badge&logo=apacheairflow&logoColor=017CEE&labelColor=1a1a2e" height="65" />
+<br/><br/>
 
+<!-- ─────────────────────────────────────────── -->
+### 🧠 AI / ML — Concepts & Techniques
+<!-- ─────────────────────────────────────────── -->
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/LLMs-1a1a2e?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" height="40" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/RAG_%26_GraphRAG-1a1a2e?style=for-the-badge&logo=databricks&logoColor=FF3621&labelColor=1a1a2e" height="40" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Prompt_Engineering-1a1a2e?style=for-the-badge&logo=openai&logoColor=74aa9c&labelColor=1a1a2e" height="40" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Vector_Databases-1a1a2e?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=1a1a2e" height="40" />
+</td>
+<td align="center" colspan="2">
+<img src="https://img.shields.io/badge/AI_Workflow_Design-1a1a2e?style=for-the-badge&logo=apacheairflow&logoColor=017CEE&labelColor=1a1a2e" height="40" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────────────────────────────────────── -->
 ### ⚙️ Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=fastapi,postman&theme=dark" height="65" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Streamlit-1a1a2e?style=for-the-badge&logo=streamlit&logoColor=FF4B4B&labelColor=1a1a2e" height="65" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1a1a2e?style=for-the-badge&logo=chainlink&logoColor=375BD2&labelColor=1a1a2e" height="65" />
-<br />
-<img src="https://img.shields.io/badge/Groq_API-1a1a2e?style=for-the-badge&logo=groq&logoColor=white&labelColor=1a1a2e" height="65" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ScaleDown_API-1a1a2e?style=for-the-badge&logo=scaleway&logoColor=white&labelColor=1a1a2e" height="65" />
+<!-- ─────────────────────────────────────────── -->
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="50" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" height="50" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Streamlit-1a1a2e?style=for-the-badge&logo=streamlit&logoColor=FF4B4B&labelColor=1a1a2e" height="40" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/LangChain-1a1a2e?style=for-the-badge&logo=chainlink&logoColor=375BD2&labelColor=1a1a2e" height="40" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="https://img.shields.io/badge/Groq_API-1a1a2e?style=for-the-badge&logo=groq&logoColor=white&labelColor=1a1a2e" height="40" />
+</td>
+<td align="center" colspan="2">
+<img src="https://img.shields.io/badge/ScaleDown_API-1a1a2e?style=for-the-badge&logo=scaleway&logoColor=white&labelColor=1a1a2e" height="40" />
+</td>
+</tr>
+</table>
 
 </div>
 
