@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Durgesh%20Mahajan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16&descColor=a0c4d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:3d1278,50:6a0dad,75:9b30ff,100:c77dff&height=200&section=header&text=Durgesh%20Mahajan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16&descColor=e8ccff" />
 
 </div>
 
@@ -113,6 +113,6 @@ class DurgeshMahajan:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c77dff,25:9b30ff,50:6a0dad,75:3d1278,100:1a0533&height=100&section=footer" />
 
 </div>
