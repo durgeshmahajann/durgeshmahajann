@@ -1,20 +1,6 @@
 <div align="center">
 
-<svg width="100%" height="250" viewBox="0 0 1200 250" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a0533" />
-      <stop offset="25%" style="stop-color:#3d1278" />
-      <stop offset="50%" style="stop-color:#6a0dad" />
-      <stop offset="75%" style="stop-color:#9b30ff" />
-      <stop offset="100%" style="stop-color:#c77dff" />
-    </linearGradient>
-  </defs>
-  <path d="M0,0 L1200,0 L1200,200 Q600,250 0,200 Z" fill="url(#headerGrad)" />
-  <text x="50%" y="100" text-anchor="middle" font-size="52" font-weight="bold" fill="#ffffff" font-family="Arial, sans-serif">Durgesh Mahajan</text>
-  <text x="50%" y="148" text-anchor="middle" font-size="16" fill="#e8ccff" font-family="Arial, sans-serif">Backend Engineer | AI / ML Engineer | Full Stack Developer</text>
-  <text x="50%" y="178" text-anchor="middle" font-size="15" fill="#e8ccff" font-family="Arial, sans-serif">BTech IT 📍 Pune, Maharashtra, India</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:3d1278,50:6a0dad,75:9b30ff,100:c77dff&height=230&section=header&text=Durgesh%20Mahajan&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20BTech%20IT%20%F0%9F%93%8D%20Pune%2C%20Maharashtra%2C%20India&descAlignY=58&descSize=15&descColor=e8ccff" />
 
 </div>
 
