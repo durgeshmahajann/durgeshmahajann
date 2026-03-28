@@ -83,14 +83,15 @@ class DurgeshMahajan:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=durgeshmahajann&show_icons=true&theme=dark&bg_color=0f2027&title_color=a0c4d8&icon_color=a0c4d8&text_color=ffffff&border_color=203a43&hide_border=false&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshmahajann&layout=compact&theme=dark&bg_color=0f2027&title_color=a0c4d8&text_color=ffffff&border_color=203a43&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=durgeshmahajann&show_icons=true&hide_border=false&count_private=true&bg_color=0f2027&title_color=a0c4d8&icon_color=a0c4d8&text_color=ffffff&border_color=2c5364&rank_icon=github" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshmahajann&layout=compact&hide_border=false&bg_color=0f2027&title_color=a0c4d8&text_color=ffffff&border_color=2c5364&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshmahajann&theme=dark&background=0f2027&ring=a0c4d8&fire=a0c4d8&currStreakLabel=a0c4d8&border=203a43" />
+<img src="https://streak-stats.demolab.com?user=durgeshmahajann&theme=dark&background=0f2027&ring=a0c4d8&fire=a0c4d8&currStreakLabel=a0c4d8&sideLabels=a0c4d8&border=2c5364&stroke=2c5364" />
 
 </div>
 
