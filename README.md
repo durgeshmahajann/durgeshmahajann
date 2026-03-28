@@ -32,45 +32,31 @@ class DurgeshMahajan:
 <div align="center">
 
 ### 💻 Languages
-
 <img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" height="65" />
 
-<br /><br />
-
 ### 🤖 AI / ML — Frameworks
-
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" height="65" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/H2O.ai-1a1a2e?style=for-the-badge&logo=h2o&logoColor=FFD700&labelColor=1a1a2e" height="65" />
 
-<br /><br />
-
 ### 🧠 AI / ML — Concepts & Techniques
-
 <img src="https://img.shields.io/badge/LLMs-1a1a2e?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" height="65" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/RAG_%26_GraphRAG-1a1a2e?style=for-the-badge&logo=databricks&logoColor=FF3621&labelColor=1a1a2e" height="65" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Prompt_Engineering-1a1a2e?style=for-the-badge&logo=openai&logoColor=74aa9c&labelColor=1a1a2e" height="65" />
-
 <br />
-
 <img src="https://img.shields.io/badge/Vector_Databases-1a1a2e?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=1a1a2e" height="65" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AI_Workflow_Design-1a1a2e?style=for-the-badge&logo=apacheairflow&logoColor=017CEE&labelColor=1a1a2e" height="65" />
 
-<br /><br />
-
 ### ⚙️ Frameworks & Tools
-
 <img src="https://skillicons.dev/icons?i=fastapi,postman&theme=dark" height="65" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Streamlit-1a1a2e?style=for-the-badge&logo=streamlit&logoColor=FF4B4B&labelColor=1a1a2e" height="65" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/LangChain-1a1a2e?style=for-the-badge&logo=chainlink&logoColor=375BD2&labelColor=1a1a2e" height="65" />
-
 <br />
-
 <img src="https://img.shields.io/badge/Groq_API-1a1a2e?style=for-the-badge&logo=groq&logoColor=white&labelColor=1a1a2e" height="65" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ScaleDown_API-1a1a2e?style=for-the-badge&logo=scaleway&logoColor=white&labelColor=1a1a2e" height="65" />
@@ -85,17 +71,9 @@ class DurgeshMahajan:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshmahajann&theme=github_dark" width="75%" />
 
-</div>
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshmahajann&theme=github_dark" width="36%" />
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshmahajann&theme=github_dark" width="36%" />
-
-</div>
-
-<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=durgeshmahajann&theme=github-dark-blue&border=2c5364&stroke=2c5364&ring=a0c4d8&fire=a0c4d8&currStreakLabel=a0c4d8&sideLabels=a0c4d8&dates=ffffff" width="75%" />
 
@@ -106,8 +84,6 @@ class DurgeshMahajan:
 ## 🤝 Connect With Me
 
 <div align="center">
-
-<br />
 
 <a href="https://linkedin.com/in/durgesh-mahajan-854aa3319">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="70" />
@@ -121,7 +97,7 @@ class DurgeshMahajan:
   <img src="https://skillicons.dev/icons?i=github&theme=dark" height="70" />
 </a>
 
-<br /><br />
+<br />
 
 | Platform | Link |
 |---|---|
@@ -129,11 +105,7 @@ class DurgeshMahajan:
 | 📧 Email | [mahajandurgesh196@gmail.com](mailto:mahajandurgesh196@gmail.com) |
 | 🐙 GitHub | [durgeshmahajann](https://github.com/durgeshmahajann) |
 
-<br />
-
 > 💬 *I'm always open to discussing AI/ML research, backend architecture, or exciting collaboration opportunities!*
-
-<br />
 
 </div>
 
