@@ -14,7 +14,7 @@ Backend, AI & ML developer focused on scalable systems and deep learning solutio
 class DurgeshMahajan:
     def __init__(self):
         self.name        = "Durgesh Mahajan"
-        self.role        = ["Backend Engineer", "AI/ML Engineer", "Full Stack Developer"]
+        self.role        = ["Backend Engineer", "AI/ML Engineer"]
         self.focus       = ["Scalable Systems", "Deep Learning", "LLMs & RAG Pipelines"]
         self.goal        = "Building intelligent, production-grade systems that solve real problems"
         self.available   = True  # Open to collaborations
